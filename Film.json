@@ -1,43 +1,104 @@
 {
-  "Titre": "Les Minions",
-  "directeur": "Kyle Balda, Pierre Coffin",
-  "Auteur": "Brian Lynch,",
-  "Date": 2015,
-  "Vedette": [
+
+  "Films": [
+
+    {
+
+    "Titre": "Les Minions",
+    "directeur": "Kyle Balda, Pierre Coffin",
+    "Auteur": "Brian Lynch,",
+    "Date": 2015,
+    "Vedette": [
     {
       "Nom": "Sandra Bullock",
       "Personnage": "Scarlet Overkill (voix)"
+      "Age": "56"
     },
     {
       "Nom": "Jon Hamm",
       "Personnage": "Herb Overkill  (voix)"
+      "Age": "49"
     },
     {
       "Nom": "Michael Keaton",
       "Personnage": "Walter Nelson (voix)"
+      "Age": "68"
     }
-  ]
-}
+  ],
+      "Resultat": [
+      {
+        "Budget": "74,000,000$"
+      },
+        {
+        "Domestic Weekend": "115,718,405$"
+        },
+        {
+        "Total USA": "336,045,770$"
+        },
+        {
+        "Total WorldWide": "1,159,398,397$"
+        }
+        
+      
 
-{
-  "Titre": "Fight Club",
-  "directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk",
-  "Date": 1999,
-  "Vedette": [
+    },
+
+    {
+
+    "Titre": "Fight CLub",
+    "directeur": "David Fincher",
+    "Auteur": "Chuck Palahniuk",
+    "Date": 1999,
+    "Vedette": [
     {
       "Nom": "Brad Pitt",
       "Personnage": "Tyler Durden"
+      "Age": "56"
     },
     {
       "Nom": "Edward Norton",
       "Personnage": "Le narrateur"
+      "Age": "51"
     },
     {
       "Nom": "Meat Loaf",
       "Personnage": "Robert 'Bob' Paulsen"
+      "Age": "72"
     }
-  ]
+  ],
+      "Resultat": [
+      {
+        "Budget": "63,000,000$"
+      },
+        {
+        "Domestic Weekend": ""
+        },
+        {
+        "Total USA": "37,030,102$"
+        },
+        {
+        "Total WorldWide": "101,218,804$"
+        }
 }
+
+      
+
+    }
+
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
